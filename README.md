@@ -1,3 +1,4 @@
+![Stats](https://github-readme-stats.vercel.app/api?username=unsco&show_icons=true&theme=tokyonight&hide=issues)
 <h1 align="center">Hi 👋, I'm Younes</h1>
 <h3 align="center">A passionate fullstack developer</h3>
 
