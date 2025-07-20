@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">🚀 Passionate Fullstack Developer | Vue.js • Symfony • Docker</h3>
+<h3 align="center">🚀 Fullstack Developer | Vue.js • Symfony • Docker • PHP</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uns111code&label=Profile%20views&color=0e75b6&style=flat" alt="uns111code" />
@@ -7,40 +7,45 @@
 
 ---
 
-### 👨‍💻 About Me
+### 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Flash Pilates** & **La Boutika**
-- 🌐 Website: [younesamini.com](https://www.younesamini.com/)
-- 📝 I write articles on [LinkedIn](https://www.linkedin.com/in/younes-amini-82a555356/)
-- 💬 Ask me about: **Vue.js, Symfony, SASS, Docker**
-- 📫 Contact: **uns.code111@gmail.com**
+- 🌐 Portfolio: [younesamini.com](https://www.younesamini.com/)
+- 📝 I write dev articles on [LinkedIn](https://www.linkedin.com/in/younes-amini-82a555356/)
+- 💬 Ask me about: **Vue.js, Symfony, Docker, SASS**
+- 📫 Reach me at: **uns.code111@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+### 🧰 My Tech Stack
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" height="40" alt="PHP"/>
-  <img src="https://symfony.com/logos/symfony_black_03.svg" width="40" height="40" alt="Symfony"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="Vue.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" alt="SASS"/>
-  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="40" height="40" alt="Tailwind"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="Linux"/>
-</p>
+#### Frontend
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white&style=flat)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Vue.js](https://img.shields.io/badge/-Vue.js-4FC08D?logo=vuedotjs&logoColor=white&style=flat)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwindcss&logoColor=white&style=flat)
+![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
+
+#### Backend
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
+
+#### Tools
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ---
 
-### 🏆 GitHub Achievements
+### 🏆 GitHub Trophies
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=uns111code&theme=algolia&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=uns111code&theme=gruvbox&column=7&margin-w=10&no-bg=true" alt="Trophies" />
 </p>
 
 ---
@@ -48,21 +53,39 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=radical&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=uns111code&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uns111code&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=false" alt="uns111code GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uns111code&layout=compact&theme=tokyonight" alt="uns111code Most Used Langs" />
 </p>
 
 ---
 
-### 🌐 Connect with me
+### 🔁 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uns111code&theme=tokyo-night" alt="Contribution Graph" />
+</p>
+
+---
+
+### 🐍 GitHub Snake Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/uns111code/uns111code/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
+### 🔗 Let's Connect
 
 <p align="left">
-  <a href="https://dev.to/younes_amini_9ca6d523d301" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="dev.to" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/younes-amini-82a555356" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/younes_amini_9ca6d523d301" target="_blank">
+    <img src="https://img.shields.io/badge/DEV.to-0A0A0A?logo=devdotto&logoColor=white" alt="Dev.to" />
+  </a>
+  <a href="mailto:uns.code111@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
