@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Younes</h1>
-<h3 align="center">🚀 Fullstack Developer | Vue.js • Symfony • Docker • PHP</h3>
+<h3 align="center">🚀 Fullstack Developer | Vue.js • Symfony • </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=uns111code&label=Profile%20views&color=0e75b6&style=flat" alt="uns111code" />
@@ -12,7 +12,7 @@
 - 🔭 I’m currently working on **Flash Pilates** & **La Boutika**
 - 🌐 Portfolio: [younesamini.com](https://www.younesamini.com/)
 - 📝 I write dev articles on [LinkedIn](https://www.linkedin.com/in/younes-amini-82a555356/)
-- 💬 Ask me about: **Vue.js, Symfony, Docker, SASS**
+- 💬 Ask me about: **Vue.js, Symfony, SASS**
 - 📫 Reach me at: **uns.code111@gmail.com**
 
 ---
@@ -28,9 +28,9 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 
 #### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
-![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony&logoColor=white&style=flat)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=plastic)
+![Symfony](https://img.shields.io/badge/-Symfony-lightgray?logo=symfony&logoColor=white&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 
 #### Tools
