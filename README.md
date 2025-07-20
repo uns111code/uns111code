@@ -43,7 +43,6 @@
 ---
 
 ### 🏆 GitHub Trophies
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uns111code&theme=tokyo-night)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uns111code&theme=gruvbox&column=7&margin-w=10&no-bg=true" alt="Trophies" />
 </p>
@@ -61,9 +60,7 @@
 
 ### 🔁 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=uns111code&theme=tokyo-night" alt="Contribution Graph" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uns111code&theme=tokyo-night)
 
 ---
 
