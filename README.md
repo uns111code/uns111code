@@ -62,7 +62,7 @@
 ### 🔁 GitHub Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=uns111code&theme=github-compact" alt="Contribution Graph" />
+  ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=uns111code&theme=tokyo-night)
 </p>
 
 ---
