@@ -28,9 +28,9 @@
 ![SASS](https://img.shields.io/badge/-SASS-CC6699?logo=sass&logoColor=white&style=flat)
 
 #### Backend
-![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=plastic)
-![Symfony](https://img.shields.io/badge/-Symfony-lightgray?logo=symfony&logoColor=white&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat-square)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?logo=php&logoColor=white&style=flat)
+![Symfony](https://img.shields.io/badge/-Symfony-1572B6?logo=symfony&logoColor=white&style=flat)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat)
 ![MariaDB](https://img.shields.io/badge/-MariaDB-003545?logo=mariadb&logoColor=white&style=flat)
 
 #### Tools
