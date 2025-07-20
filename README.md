@@ -70,7 +70,7 @@
 ### 🐍 GitHub Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/uns111code/uns111code/output/github-contribution-grid-snake.svg" alt="snake gif" />
+  <img src="https://github.com/uns111code/uns111code/blob/output/dist/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 
 ---
