@@ -11,7 +11,6 @@
 
 - 🔭 I’m currently working on **Flash Pilates** & **La Boutika**
 - 🌐 Portfolio: [younesamini.com](https://www.younesamini.com/)
-- 📝 I write dev articles on [LinkedIn](https://www.linkedin.com/in/younes-amini-82a555356/)
 - 💬 Ask me about: **Vue.js, Symfony, SASS**
 - 📫 Reach me at: **uns.code111@gmail.com**
 
