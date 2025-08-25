@@ -40,9 +40,9 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ---
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=gruvbox)
 
 ### 🏆 GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=uns111code)](https://github.com/uns111code/github-profile-trophy)
 <p align="center">
   <img src="https://github-profile-trophy-yourname.vercel.app/?username=uns111code" alt="Trophies" />
 </p>
