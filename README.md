@@ -42,6 +42,7 @@
 ---
 
 ### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=uns111code)](https://github.com/uns111code/github-profile-trophy)
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=uns111code&theme=gruvbox&column=7&margin-w=10&no-bg=true" alt="Trophies" />
 </p>
