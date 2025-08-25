@@ -40,7 +40,7 @@
 ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=flat)
 
 ---
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=gruvbox)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=tokyonight)
 
 ### 🏆 GitHub Trophies
 <p align="center">
