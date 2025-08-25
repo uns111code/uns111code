@@ -42,9 +42,9 @@
 ---
 
 ### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy-yourname.vercel.app/?username=uns111code" alt="Trophies" />
-</p>
+[![trophy](https://github-profile-trophy.vercel.app/?username=uns111code&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<!-- <p align="center"><img src="https://github-profile-trophy-yourname.vercel.app/?username=uns111code" alt="Trophies" /></p> -->
 
 ---
 
