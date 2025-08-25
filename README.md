@@ -49,8 +49,9 @@
 ---
 
 ### 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=tokyonight) <p align="center">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=false" alt="uns111code GitHub Stats" /> -->
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=uns111code&show_icons=true&theme=tokyonight&hide=issues,contribs&hide_rank=false" alt="uns111code GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=uns111code&layout=compact&theme=tokyonight" alt="uns111code Most Used Langs" />
 </p>
 
