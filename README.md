@@ -43,9 +43,6 @@
 
 ### 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy-uns111code.vercel.app/?username=uns111code&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![trophy](https://github-profile-trophy.vercel.app/?username=uns111code&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
 <p align="center"><img src="https://github-profile-trophy-uns111code.vercel.app/?username=uns111code" alt="Trophies" /></p>
 
 ---
